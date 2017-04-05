@@ -34,7 +34,7 @@
  <!-- Third party plugins -->
  
  <!-- Para accesar a paginas en internet -->
- <allow-intent href="https://*¨/*"/>
+ <allow-intent href="https://*/*"/>
  <acces origin="http://*/*"/>
  <allow-intent href="htt://*/*"/>
  <acces origin="http://*/*"/>
